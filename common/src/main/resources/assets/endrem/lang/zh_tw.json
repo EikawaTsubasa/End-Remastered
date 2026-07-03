@@ -1,0 +1,114 @@
+{
+  "item.endrem.old_eye": "遠古之眼",
+  "item.endrem.old_eye.description": "§7§o很久很久以前，它是一頭沙漠大蛇的眼睛...Binah?",
+
+  "item.endrem.rogue_eye": "流氓之眼",
+  "item.endrem.rogue_eye.description": "§7§o很久很久以前，它賦予了人們紅石智慧...還有他們內心的糟糕念頭",
+
+  "item.endrem.nether_eye": "地獄之眼",
+  "item.endrem.nether_eye.description": "§7§o很久很久以前，惡魔在入侵天域的征途上弄丟了它...而祂再也沒有回到地獄",
+
+  "item.endrem.cold_eye": "寒冰之眼",
+  "item.endrem.cold_eye.description": "§7§o很久很久以前，它陪伴最後的冰術師走過生命的盡頭...留下鰥寡孤獨的它",
+
+  "item.endrem.magical_eye": "魔法之眼",
+  "item.endrem.magical_eye.description": "§7§o很久很久以前，喚魔者和螻蟻一樣脆弱...直到將靈魂獻給了它",
+
+  "item.endrem.black_eye": "漆黑之眼",
+  "item.endrem.black_eye.description": "§7§o很久很久以前，海盜利用它尋找傳說中的黑珍珠號...找到什麼是另一回事",
+
+  "item.endrem.lost_eye": "迷失之眼",
+  "item.endrem.lost_eye.description": "§7§o很久很久以前，最初的匠人鍛造了它...然後又遺棄了它",
+
+  "item.endrem.wither_eye": "凋零之眼",
+  "item.endrem.wither_eye.description": "§7§o很久很久以前，它見證了毀滅...也許還會見證你的物品消失？",
+
+  "item.endrem.guardian_eye": "深海之眼",
+  "item.endrem.guardian_eye.description": "§7§o很久很久以前，它隨勇者一同啟航...然後一起沉沒在深淵之下",
+
+  "item.endrem.cursed_eye": "詛咒之眼",
+  "item.endrem.cursed_eye.description": "§7§o很久很久以前，豬布林族長用生命守護著它...世世代代守護著它",
+
+  "item.endrem.exotic_eye": "異域之眼",
+  "item.endrem.exotic_eye.description": "§7§o很久很久以前，它引導人們前往亞特蘭提斯...然後再也沒有人回來",
+
+  "item.endrem.evil_eye": "邪惡之眼",
+  "item.endrem.evil_eye.description": "§7§o很久很久以前，它保護主人免於災厄...原理是用魔鬼的靈趕鬼？",
+
+  "item.endrem.undead_eye": "亡靈之眼",
+  "item.endrem.undead_eye.description": "§7§o很久很久以前，它好像想起了什麼重要的東西...不過是生前往事",
+
+  "item.endrem.cryptic_eye": "神秘之眼",
+  "item.endrem.cryptic_eye.description": "§7§o很久很久以前§khttps://www.youtube.com/watch?v=dQw4w9WgXcQ",
+
+  "item.endrem.corrupted_eye": "腐化之眼",
+  "item.endrem.corrupted_eye.description": "§7§o很久很久以前，它為主人帶來財富...直到他家徒四壁",
+
+  "item.endrem.witch_eye": "女巫之眼",
+  "item.endrem.witch_eye.description": "§7§o很久很久以前，它記下了失傳已久的「毒藥」...是「毒」，還是「藥」，取決於你的用法哦",
+  "item.endrem.witch_pupil": "巫瞳",
+
+  "item.endrem.undead_soul": "亡靈魂魄",
+
+  "item.endrem.ancient_portal_frame": "遠古傳送門框架",
+
+  "block.endrem.ender_eye.warning": "你未能得到終界之眼的回應",
+  "block.endrem.custom_eye.place": "終界之眼完成了它最後的使命",
+  "block.endrem.custom_eye.frame_has_eye": "終界之眼已長眠此地",
+
+  "itemGroup.endrem.endrem_tab": "終界之前",
+
+  "block.portal_open_sound": "傳送門開啟",
+  "block.portal_open_sound.sub": "傳送門開啟",
+
+  "advancements.main.root.title": "終界之前",
+  "advancements.main.root.description": "終末之地的回聲",
+
+  "advancements.main.old_eye.title": "歡迎來到阿拜多斯",
+  "advancements.main.old_eye.description": "擊敗傳說中的沙漠大蛇...或是發現祂的遺體",
+
+  "advancements.main.rogue_eye.title": "求財若渴",
+  "advancements.main.rogue_eye.description": "奪回被流氓束之高閣的財寶",
+
+  "advancements.main.nether_eye.title": "凝視深淵",
+  "advancements.main.nether_eye.description": "在地獄堡壘接受深淵的凝視",
+
+  "advancements.main.cold_eye.title": "美麗凍人",
+  "advancements.main.cold_eye.description": "她繳不出房租",
+
+  "advancements.main.corrupted_eye.title": "翡翠王冠",
+  "advancements.main.corrupted_eye.description": "財富招致腐化；絕對的財富，絕對的腐化",
+
+  "advancements.main.magical_eye.title": "墮落術士",
+  "advancements.main.magical_eye.description": "魔法是有代價的",
+
+  "advancements.main.black_eye.title": "深海少女",
+  "advancements.main.black_eye.description": "沉入悲傷之海的我",
+
+  "advancements.main.lost_eye.title": "我是誰？我在哪？",
+  "advancements.main.lost_eye.description": "我在做什麼？",
+
+  "advancements.main.wither_eye.title": "Just Simmons",
+  "advancements.main.wither_eye.description": "請不要玩弄我的地獄之星，我不想回來",
+
+  "advancements.main.guardian_eye.title": "廟死誰手?",
+  "advancements.main.guardian_eye.description": "現在誰才是深海守衛？",
+
+  "advancements.main.cursed_eye.title": "大法師",
+  "advancements.main.cursed_eye.description": "這可不是多喝牛奶就能解決的",
+
+  "advancements.main.witch_eye.title": "不給糖就搗蛋",
+  "advancements.main.witch_eye.description": "理解翡薩烈、成為翡薩烈",
+
+  "advancements.main.evil_eye.title": "最誠摯的祝福",
+  "advancements.main.evil_eye.description": "自相紛爭之家無法站立",
+
+  "advancements.main.exotic_eye.title": "亞特蘭提斯迷津",
+  "advancements.main.exotic_eye.description": "該如何證明抵達樂園的人是否存在？",
+
+  "advancements.main.undead_eye.title": "靈魂倒影",
+  "advancements.main.undead_eye.description": "什麼都知道，什麼也做不了",
+
+  "advancements.main.cryptic_eye.title": "真理之門",
+  "advancements.main.cryptic_eye.description": "給予和願望相對應的絕望，這就是真理"
+}
